@@ -31,7 +31,7 @@
  }
 
 .btn-sm {
-  padding: .5rem 1rem;;
+  padding: .5rem 1rem;
   font-size: var(--fs-sm);
 }
 
@@ -62,7 +62,18 @@
   color: transparent;
   position: relative;
   z-index: 1;
+ }
 }
 
-
+@media (width >= 80em) {
+.btn-sm {
+  padding: .75rem 1.5rem;
+  font-size: var(--fs-base);
 }
+
+.btn-md {
+  padding: 1rem 2rem;
+  font-size: 1.125rem;
+}
+
+ }
