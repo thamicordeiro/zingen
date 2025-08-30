@@ -3,7 +3,7 @@
     text-align: center;
   }
 
-& cards {
+& .cards {
   margin-top: 2rem;
 }
 
@@ -22,7 +22,7 @@
     font: var(--fw-bold) var(--fs-price)/1.2 var(--ff-sans);
   }
 
- & zing-pricing {
+ & zing-pricing small {
   font: var(--fw-base) 1rem/125% var(--ff-sans);
   color: var(--text-color-secondary); 
 }
