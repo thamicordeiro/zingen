@@ -1,6 +1,6 @@
 # 🎤 Zingen
 
-O **Zingen** é um projeto que simula a apresentação de uum aplicativo de karaokê moderno, destacando suas funcionalidades e planos de assinatura.
+Projeto desenvolvido como prática do curso da Rocketseat. O **Zingen** é um projeto que simula a apresentação de uum aplicativo de karaokê moderno, destacando suas funcionalidades e planos de assinatura.
 👉 [Acesse o projeto aqui](https://thamicordeiro.github.io/zingen/)
 
 ---
@@ -8,7 +8,7 @@ O **Zingen** é um projeto que simula a apresentação de uum aplicativo de kara
 ## 📖 Sobre o projeto
 A ideia do **Zingen** é ser uma **página de apresentação** para um app fictício.  
 O foco foi:
-- Criar uma identidade visual moderna e jovem 🎶  
+- Criar uma identidade visual moderna e jovem 
 - Organizar bem as seções de destaque (título, vantagens, download etc.)  
 - Trabalhar responsividade e design limpo  
 
